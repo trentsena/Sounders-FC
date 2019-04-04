@@ -1,0 +1,138 @@
+body {
+    margin: 0 auto;
+    font-family: 'Georgia', sans-serif;
+}
+
+.nav-bar {
+    height: 125px;
+    width: 100%;
+    background-color: #0c202c;
+    top: 0;
+    z-index: 1;
+}
+
+.nav-list {
+    float: right;
+}
+
+.list-item {
+    padding-right: 30px;
+    float: left;
+}
+
+.logo {
+    height: 125px;
+    width: 100px;
+    margin-left: 10px;
+    float: left;
+}
+
+.input {
+    color: #5d983e;
+}
+
+.about-box1 {
+    height: 500px;
+    width: 40%;
+    margin-left: 2.5%;
+    float: left;
+    border: 3px solid #5d983e;
+    margin-top: 2.5%;
+}
+
+.box-title {
+    text-align: center;
+}
+
+.column1 {
+    width: 40%;
+    height: 1px;
+    margin-left: 50px;
+    float: left;
+}
+
+.column4 {
+    text-align: center;
+    height: 50px;
+}
+
+.about-box2 {
+    height: 500px;
+    width: 40%;
+    padding-left: 2.5%;
+    float: right;
+    border: 3px solid #5d983e;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+}
+
+.about-box3 {
+    height: 500px;
+    width: 40%;
+    margin-left: 2.5%;
+    float: left;
+    clear: left;
+    border: 3px solid #5d983e;
+    margin-top: 2.5%;
+    background-size: cover;
+    background-image: url(https://www.army.mil/e2/c/images/2016/05/31/437410/size0.jpg);
+}
+
+.about-box4 {
+    height: 500px;
+    width: 40%;
+    padding-left: 2.5%;
+    float: right;
+    clear: right;
+    border: 3px solid #5d983e;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+    background-size: cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/32/Sounders_FC_vs_New_England_Revs.jpg);
+}
+
+.about-box5 {
+    height: 500px;
+    width: 40%;
+    margin-left: 2.5%;
+    float: left;
+    clear: left;
+    border: 3px solid #5d983e;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+.about-box6 {
+    height: 500px;
+    width: 40%;
+    padding-left: 2.5%;
+    float: right;
+    clear: right;
+    border: 3px solid #5d983e;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.footer {
+    height: 125px;
+    width: 100%;
+    background-color: #0c202c;
+    clear: left;
+}
+
+.footer-col {
+    text-align: center;
+    /**float: left;**/
+    width: 100%;
+}
+
+.fa-instagram {
+    font-size: 2.5em;
+    color: white;
+    text-align: center;
+}
+.fa-twitter {
+    font-size: 2.5em;
+    color: #1DA1F2;
+}
+

@@ -1,0 +1,80 @@
+body {
+    margin: 0 auto;
+    font-family: 'Georgia', sans-serif;
+}
+
+.nav-bar {
+    height: 125px;
+    width: 100%;
+    background-color: #0c202c;
+    top: 0;
+    z-index: 1;
+}
+
+.nav-list {
+    float: right;
+}
+
+.list-item {
+    padding-right: 30px;
+    float: left;
+}
+
+.logo {
+    height: 125px;
+    width: 100px;
+    margin-left: 10px;
+    float: left;
+}
+
+.search {
+    width: 33%;
+    
+}
+
+
+
+.input {
+    color: #5d983e;
+}
+
+.hero {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bc/SSFC-Inaugural.Game-Scarves.Up.jpg);
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    top: 0 auto;
+}
+
+.title {
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    color: #5d983e;
+    background-color: #0c202c;
+}
+
+.footer {
+    height: 125px;
+    width: 100%;
+    background-color: #0c202c;
+    clear: left;
+}
+
+.footer-col {
+    text-align: center;
+    float: left;
+    width: 100%;
+    padding-top: 5px;
+}
+
+.fa-instagram {
+    font-size: 2.5em;
+    color: white;
+    /**margin-left: 48%;**/
+}
+.fa-twitter {
+    font-size: 2.5em;
+    color: #1DA1F2;
+}
+
